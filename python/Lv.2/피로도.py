@@ -1,4 +1,4 @@
-#프로그래머스 위클리 챌린지 12주차
+# 피로도(프로그래머스 위클리 챌린지 12주차)
 from copy import deepcopy
 def solution(k, dungeons):
     n=len(dungeons)
